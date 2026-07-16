@@ -1,0 +1,12 @@
+app:
+  title: Equipment Diagnostics ML
+  description: ML-система диагностики технического состояния электронного оборудования
+
+paths:
+  model_path: models/best_model.pkl
+  features_path: data/processed/features.csv
+  raw_data_path: data/raw/sensor_timeseries.csv
+
+prediction:
+  risk_threshold_low: 0.4
+  risk_threshold_medium: 0.7

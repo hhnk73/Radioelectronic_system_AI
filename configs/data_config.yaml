@@ -1,0 +1,35 @@
+random_seed: 42
+
+simulation:
+  sampling_rate: 100
+  duration_seconds: 60
+  experiments_per_class: 80
+
+classes:
+  - normal
+  - overheating
+  - cooling_degradation
+  - vibration_fault
+  - imbalance
+  - bearing_wear
+  - combined_fault
+
+sensors:
+  temperature_chip: true
+  temperature_case: true
+  vibration_x: true
+  vibration_y: true
+  vibration_z: true
+  current: true
+  voltage: true
+  load: true
+  fan_speed: true
+
+windowing:
+  window_size_seconds: 5
+  step_size_seconds: 2.5
+
+output:
+  raw_data_path: data/raw/sensor_timeseries.csv
+  windows_path: data/interim/windows.csv
+  features_path: data/processed/features.csv
