@@ -1,6 +1,7 @@
 ﻿# ML-система предиктивной диагностики СВЧ-модулей
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![Status](https://img.shields.io/badge/status-MVP-green)
@@ -247,3 +248,4 @@ http://localhost:8501
 6. CI/CD и автоматический запуск тестов.
 7. Экспорт плана проверки в Excel.
 8. Журнал событий и история обслуживания модулей.
+
