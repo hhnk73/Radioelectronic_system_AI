@@ -201,7 +201,9 @@
 
 ## Пользовательские роли
 
-<img width="256" height="423" alt="image" src="https://github.com/user-attachments/assets/bd804872-d49d-4559-be44-ab436f55bc0d" />
+<p align="center">
+  <img width="256" height="423" alt="image" src="https://github.com/user-attachments/assets/bd804872-d49d-4559-be44-ab436f55bc0d" />
+</p>
 
 ### Оператор
 
