@@ -18,8 +18,6 @@
 6. преобразование предсказаний в уровень риска и рекомендации;
 7. отображение результатов в интерфейсе Streamlit.
 
-<img width="1520" height="717" alt="image" src="https://github.com/user-attachments/assets/1d2c0083-6076-4b93-80e2-8dc92f32a94c" />
-
 ## Статус проекта
 
 Проект является исследовательской работой.
@@ -140,6 +138,8 @@
 - `thermal_stress_index`;
 - `vibration_stress_index`;
 - `combined_stress_index`.
+
+<img width="1280" height="287" alt="image" src="https://github.com/user-attachments/assets/467985bf-ef0d-4381-afbe-1c145585c19b" />
 
 <img width="1504" height="355" alt="image" src="https://github.com/user-attachments/assets/8dc3e415-3393-4899-a85b-edc9523c33e9" />
 
