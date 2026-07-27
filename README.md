@@ -6,9 +6,6 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Ready%20for%20Demo-brightgreen)](#)
 
-<img width="645" height="424" alt="image" src="https://github.com/user-attachments/assets/5d02731a-0b11-4d65-9c6c-ccb73e4245e6" />
-
-
 Исследовательский ML-прототип для диагностики технического состояния СВЧ-модулей по временным рядам температуры, вибрации и электрических параметров.
 
 Проект демонстрирует полный цикл решения задачи:
