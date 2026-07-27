@@ -183,7 +183,9 @@
 
 <img width="1312" height="351" alt="image" src="https://github.com/user-attachments/assets/ef3218b8-43ca-40e0-bc82-dc3c83e7f85a" />
 
-<img width="606" height="335" alt="image" src="https://github.com/user-attachments/assets/196046ef-3ad4-414b-bdb9-3c76647d6671" />
+<p align="center">
+  <img width="606" height="335" alt="image" src="https://github.com/user-attachments/assets/196046ef-3ad4-414b-bdb9-3c76647d6671" />
+</p>
 
 ## Продуктовая логика
 
