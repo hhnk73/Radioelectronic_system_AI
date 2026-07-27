@@ -1,5 +1,10 @@
 # ML в СВЧ: диагностика технического состояния оборудования
 
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-In%20Development-orange)
+
 Исследовательский ML-прототип для диагностики технического состояния СВЧ-модулей по временным рядам температуры, вибрации и электрических параметров.
 
 Проект демонстрирует полный цикл решения задачи:
