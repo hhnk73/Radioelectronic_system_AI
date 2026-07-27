@@ -184,7 +184,7 @@
 <img width="1312" height="351" alt="image" src="https://github.com/user-attachments/assets/ef3218b8-43ca-40e0-bc82-dc3c83e7f85a" />
 
 <p align="center">
-  <img width="606" height="335" alt="image" src="https://github.com/user-attachments/assets/196046ef-3ad4-414b-bdb9-3c76647d6671" />
+  <img width="1212" height="670" alt="image" src="https://github.com/user-attachments/assets/196046ef-3ad4-414b-bdb9-3c76647d6671" />
 </p>
 
 ## Продуктовая логика
@@ -202,7 +202,7 @@
 ## Пользовательские роли
 
 <p align="center">
-  <img width="256" height="423" alt="image" src="https://github.com/user-attachments/assets/bd804872-d49d-4559-be44-ab436f55bc0d" />
+  <img width="512" height="846" alt="image" src="https://github.com/user-attachments/assets/bd804872-d49d-4559-be44-ab436f55bc0d" />
 </p>
 
 ### Оператор
